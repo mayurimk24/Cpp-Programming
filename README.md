@@ -1,3 +1,4 @@
 # C++_Programming
 
-This is Repo create for to understands Basic to Advanced concept in C++ programming
+This repo contains C++ programs for all major concepts:
+Variables, Loops, Functions, Arrays, Pointers, OOP, Inheritance, Polymorphism, and File Handling.
